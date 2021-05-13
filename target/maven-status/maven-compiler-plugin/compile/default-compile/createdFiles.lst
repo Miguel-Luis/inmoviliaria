@@ -1,0 +1,12 @@
+com\mycompany\inmoviliaria\Servicios.class
+com\mycompany\inmoviliaria\CobroAlquiler.class
+com\mycompany\inmoviliaria\Cliente.class
+com\mycompany\inmoviliaria\ErrorServicio.class
+com\mycompany\inmoviliaria\CobroVenta.class
+com\mycompany\inmoviliaria\Interesado.class
+com\mycompany\inmoviliaria\Inmueble.class
+com\mycompany\inmoviliaria\ContratoAlquiler.class
+com\mycompany\inmoviliaria\InmobiliariaFacade.class
+com\mycompany\inmoviliaria\Main.class
+com\mycompany\inmoviliaria\Propietario.class
+com\mycompany\inmoviliaria\Persona.class

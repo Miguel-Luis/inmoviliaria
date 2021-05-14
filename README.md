@@ -1,2 +1,4 @@
 # inmoviliaria
 Se desea desarrollar el sw para una inmobiliaria. Obviamente una inmobiliaria realiza muchos trabajos diferentes, por ejemplo el cobro de alquiler, muestra de inmuebles, contratos de ventas, contratos de alquiler, etc. Se requiere que el desarrollo sea orientado a objetos, lo que indica que no se realice todo en una misma clase, sino que se dividen las responsabilidades en diferentes clases.  En el software de la inmobiliaria se tienen varios tipos de Personas, todas con sus atributos y métodos correspondientes.
+
+![Inmoviliaria](https://user-images.githubusercontent.com/34074599/118201764-d37a7000-b41d-11eb-8053-d909f878e067.jpeg)
